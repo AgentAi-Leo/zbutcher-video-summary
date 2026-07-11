@@ -1,9 +1,10 @@
-# Share / View Online
+# Share this report
 
-Recommended: open `SHARE_THIS_LINK.txt`, copy the single URL inside, and paste that URL directly into text or email.
+Copy/paste this URL into text or email:
 
-Share URL:
 https://agentai-leo.github.io/zbutcher-video-summary
+
+For the phone preview card, send the URL itself — do not attach the `.html`, `.zip`, `.txt`, `.url`, or `.webloc` file as the message content.
 
 Rendered page:
 https://agentai-leo.github.io/zbutcher-video-summary/
