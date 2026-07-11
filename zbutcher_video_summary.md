@@ -2,6 +2,10 @@
 
 Source: https://zbutcher.myportfolio.com/
 
+View/share online: https://agentai-leo.github.io/zbutcher-video-summary/
+
+Download ZIP: https://agentai-leo.github.io/zbutcher-video-summary/zbutcher_video_summary_bundle.zip
+
 Total embedded videos found: **91**
 
 Readable catalog export. Each item includes the title, category/index, platform/video ID, portfolio caption, description, thumbnail, and links.
