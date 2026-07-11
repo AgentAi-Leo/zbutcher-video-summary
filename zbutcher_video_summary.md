@@ -4,7 +4,6 @@ Source: https://zbutcher.myportfolio.com/
 
 Share URL: https://agentai-leo.github.io/zbutcher-video-summary
 
-View/share online: https://agentai-leo.github.io/zbutcher-video-summary/
 
 Download ZIP: https://agentai-leo.github.io/zbutcher-video-summary/zbutcher_video_summary_bundle.zip
 
