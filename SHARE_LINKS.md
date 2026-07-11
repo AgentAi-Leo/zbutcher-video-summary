@@ -1,4 +1,8 @@
-# Share / View Online
+# Share Link
+
+Copy/paste this URL into text or email to get the phone link preview:
+
+https://agentai-leo.github.io/zbutcher-video-summary
 
 Rendered page:
 https://agentai-leo.github.io/zbutcher-video-summary/
@@ -8,5 +12,3 @@ https://agentai-leo.github.io/zbutcher-video-summary/zbutcher_video_summary_bund
 
 GitHub repository:
 https://github.com/AgentAi-Leo/zbutcher-video-summary
-
-Recommended for text/email: share the rendered page URL above instead of attaching the raw HTML file, so remote images load reliably in a normal browser.
